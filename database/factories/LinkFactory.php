@@ -2,7 +2,7 @@
 
 namespace Database\Factories;
 
-use App\Link;
+use App\Models\Link;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Faker\Factory as Faker;
 
