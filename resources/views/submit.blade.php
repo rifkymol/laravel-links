@@ -2,7 +2,7 @@
 @section('content')
     <div class="container">
         <div class="row">
-            <h1>Submit a link</h1>
+            <h1>Submit a Link</h1>
         </div>
         <div class="row">
             <form action="/submit" method="POST">

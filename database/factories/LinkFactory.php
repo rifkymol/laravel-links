@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Factories\Factory;
 use Faker\Factory as Faker;
 
 /**
- * @extends \Illuminate\Database\Eloquent\Factories\Factory<\App\Models\link>
+ * @extends \Illuminate\Database\Eloquent\Factories\Factory<\App\Models\Link>
  */
 class LinkFactory extends Factory
 {
